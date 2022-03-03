@@ -1,0 +1,15 @@
+{
+  "private": false,
+  "version": "0.0.0",
+  "name": "starter-code",
+  "devDependencies": {
+    "@babel/core": "*",
+    "@babel/preset-env": "*",
+    "babel-jest": "*",
+    "jest": "*",
+    "http-server": "*"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
